@@ -1,6 +1,6 @@
-# miniprojeto4-visualizacoes_e_graficos
+# projeto4-visualizacoes_e_graficos
 
-Miniprojeto focado na criação de gráficos e visualizações usando as bibliotecas seaborn e matplolib a partir dos 3 datasets sobre os filmes do IMBD. Alguns exemplos de visualizações que foram abordadas:
+Projeto focado na criação de gráficos e visualizações usando as bibliotecas seaborn e matplolib a partir dos 3 datasets sobre os filmes do IMBD. Alguns exemplos de visualizações que foram abordadas:
 - Histograma
 - Gráficos de linhas
 - Gráficos de barras
