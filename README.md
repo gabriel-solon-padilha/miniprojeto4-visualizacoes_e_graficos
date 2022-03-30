@@ -1,7 +1,8 @@
-# projeto4-visualizacoes_e_analises_gráficas
+# Visualizações e análises gráficas dos filmes do IMDB
 
-Projeto focado na criação de gráficos e visualizações usando as bibliotecas seaborn e matplolib a partir dos 3 datasets sobre os filmes do IMBD. Alguns exemplos de visualizações que foram abordadas:
-- Histograma
+Meu quarto projeto em python que tinha como objetivo realizar a criação de gráficos e visualizações usando as bibliotecas seaborn, matplolib, pandas e numpy a partir dos 3 datasets sobre os filmes do IMBD. Alguns exemplos de visualizações que foram abordadas:
+
+- Histogramas
 - Gráficos de linhas
 - Gráficos de barras
 - Candlestick (bônus)
